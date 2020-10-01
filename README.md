@@ -3,9 +3,15 @@ Golang Jumpstart Codes
 
 main.go has all the functions commented under it.
 
-Uncomment and run "go run main.go F.go" OR "go run *.go"
+Uncomment and Run
 
-F.go -> File that contains the function
+> go run main.go File_name.go
+
+OR
+
+>go run *.go
+
+File_name.go -> File that contains the function
 
 Everything is under package main
 
